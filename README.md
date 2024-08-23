@@ -25,7 +25,7 @@ Email Verification: Sends a verification link to the user's email upon registrat
 
 Installation Clone this repository:
 
-bash Copy code git clone https://github.com/inbavel11/MAD-Experiments.git Navigate to the project directory:
+bash Copy code git clone https://github.com/Appuyoges/YOGESWARAN-S_221501511/tree/main Navigate to the project directory:
 
 bash Copy code cd mobile-app-experiments-lab Install dependencies:
 
