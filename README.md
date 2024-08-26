@@ -75,8 +75,7 @@ Text-to-Speech (TTS)
 Description
 TTS technology transforms written text into audible speech, enabling applications to read content aloud. This is particularly beneficial for users who prefer auditory information or have reading difficulties.
 Key Features
-Natural Voice Generation: Modern TTS systems utilize advanced algorithms to produce human-like voices, enhancing the listening experience. For example, ElevenLabs' TTS is noted for its realistic voice outputs that mimic natural speech patterns.
-Customization Options: Users can often adjust parameters such as voice type, speed, and pitch to suit their preferences.
+Natural Voice Generation: Modern TTS systems utilize advanced algorithms to produce human-like voices, enhancing the listening experience.
 Wide Application: TTS is used in virtual assistants, educational tools, and accessibility applications for visually impaired users.
 Usage in the Application
 Incorporating TTS allows the application to provide auditory feedback, read notifications, or assist users in navigating through text-heavy content. This can be implemented using various TTS engines, such as Google TTS or Microsoft Azure TTS.
